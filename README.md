@@ -1,7 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there, I'm Hasan Çatak<br><br>I'm a final-year Computer Engineering student. <br><br><br>I'm actively enhancing my academic knowledge while building real-world projects to gain hands-on experience. I mostly work with Python for data processing and model development.<br><br>   <br><br>### 📌 My Goal<br>To work on data-driven and AI-focused projects, solve real-world problems, and continuously improve my skills to become an expert in the field.<br><br>### 📫 Contact Me<br>- Email: [hasanctk18@gmail.com]  <br>- LinkedIn: [https://www.linkedin.com/in/hasan-%C3%A7atak-7b1b85234/]<br><br>Thanks for visiting!<br>
-
-
+## 👋 Hi there, I'm Hasan Çatak<br><br>I'm a final-year Computer Engineering student.<br>I'm actively enhancing my academic knowledge while building real-world projects to gain hands-on experience. I mostly work with Python for data processing and model development.<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hasan Çatak) 
 
